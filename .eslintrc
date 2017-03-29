@@ -21,12 +21,7 @@
     "react/jsx-filename-extension": 0,
     // This rule struggles with flow and class properties.
     "react/sort-comp": 0,
-    // We use global requires in various places, e.g. code splitting instances.
-    "global-require": 0,
-    "jsx-a11y/label-has-for": 0,
     "no-restricted-syntax": 0,
-    //    "no-trailing-spaces": 0,
     "import/no-named-as-default": 0
-    //    "react/forbid-prop-types": 0
   }
 }
